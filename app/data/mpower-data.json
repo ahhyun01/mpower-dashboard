@@ -1,0 +1,27 @@
+{"version" : "17.2",
+  pages: [{"status": "active",
+          "config": {
+            "dir": "dashboard/active",
+            "pivotalAPI": ""
+            }
+          },
+          {"status": "done",
+            "config": {
+              "dir": "dashboard/active",
+              "pivotalAPI": ""
+            }
+          },
+          {"status": "active",
+            "config": {
+              "dir": "dashboard/active",
+              "pivotalAPI": ""
+            }
+          },
+          {"status": "active",
+            "config": {
+              "dir": "dashboard/active",
+              "pivotalAPI": ""
+            }
+          }
+  ]
+}

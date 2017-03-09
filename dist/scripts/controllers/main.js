@@ -1,0 +1,1 @@
+"use strict";angular.module("mpowerDashboard").controller("MainCtrl",function($scope,$position){});

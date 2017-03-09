@@ -1,0 +1,1 @@
+"use strict";angular.module("mpowerDashboard").directive("notifications",function(){return{templateUrl:"scripts/directives/notifications/notifications.html",restrict:"E",replace:!0}});
