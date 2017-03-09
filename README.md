@@ -49,6 +49,7 @@ changing ownner .config
 sudo chown -R [user name] ~/.config
 ```
 
+**NOTE:**
 If you get an error about "TypeError: Path must be a string," try downgrading 
 your npm to version 5.
 ```sh
